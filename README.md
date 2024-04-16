@@ -13,7 +13,7 @@
 
 Welcome to
 [PPResume](https://ppresume.com/?utm_source=Github&utm_medium=ppresume%2F.github)
-, a LaTeX-based resume builder that helps people create beautifully typeset
+, a LaTeX based resume builder that helps people create beautifully typed
 resumes in minutes.
 
 ![PPResume Resume Form and Preview](/static/images/ppresume-launch.png)
