@@ -3,7 +3,7 @@ Welcome to
 , a LaTeX based resume builder that helps people create beautifully typed
 resumes in minutes.
 
-![PPResume Resume Form and Preview](/static/images/ppresume-launch.webp)
+![PPResume Resume Form and Preview](/static/images/ppresume-2025-jan.webp)
 
 ## About
 
